@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="118.24.0.251" id="12d77320-d771-489b-b33e-b21e98d2d751" port="22" customName="美团项目服务器" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</project>
